@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: warzone2100\n"
 "Report-Msgid-Bugs-To: warzone2100-project@lists.sourceforge.net\n"
 "POT-Creation-Date: 2025-09-14 18:40+0000\n"
-"PO-Revision-Date: 2025-09-16 00:28\n"
+"PO-Revision-Date: 2025-09-23 02:30\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -7443,7 +7443,7 @@ msgid "port"
 msgstr "port"
 
 msgid "Enable / disable port mapping when hosting"
-msgstr "Porttovábbítás játék kiszolgálása során be/ki"
+msgstr "Porttovábbítás a játék kiszolgálása során be/ki"
 
 msgid "[1, true, 0, false]"
 msgstr "[1, igaz, 0, hamis]"
@@ -7518,7 +7518,7 @@ msgid "Base video URL"
 msgstr "Videók alapwebcíme"
 
 msgid "Specify connection provider type to use when hosting game sessions"
-msgstr ""
+msgstr "A játékok kiszolgálása során használt kapcsolatszolgáltató típusának megadása"
 
 msgid "Commander needs a higher level to command more units"
 msgstr "A parancsnoknak magasabb szintre kell lépnie, hogy több egységnek parancsoljon"
@@ -9177,7 +9177,7 @@ msgid "Lets us see what you see!"
 msgstr "Mondja el, hogy mit lát!"
 
 msgid "Fine, weapon & sensor display is off!"
-msgstr ""
+msgstr "Rendben, a fegyver és érzékelő kijelzése kikapcsolva!"
 
 msgid "View Aligned to South"
 msgstr "Délre állított nézet"
@@ -9212,7 +9212,7 @@ msgid "Taking things easy!"
 msgstr "Csak könnyedén!"
 
 msgid "Back to normality!"
-msgstr "Térj vissza a szabályokhoz!"
+msgstr "Vissza a szabályokhoz!"
 
 msgid "Getting tricky!"
 msgstr "Trükkös dolog!"
@@ -9284,7 +9284,7 @@ msgstr "Északra állított nézet"
 
 #, c-format
 msgid "Trap cursor %s"
-msgstr "Rögzített kurzor %s"
+msgstr "Kurzor rögzítése: %s"
 
 msgid "CAMPAIGN"
 msgstr "KÜLDETÉS"
@@ -9317,7 +9317,7 @@ msgid "CHEATS: DISABLED"
 msgstr "CSALÁSOK: LETILTVA"
 
 msgid "Researched EVERYTHING for you!"
-msgstr "Mindent vizsgált!"
+msgstr "MINDENT kifejlesztett Önnek!"
 
 msgid "Selected buildings instantly recharged!"
 msgstr "A kiválasztott épületek azonnal feltöltve!"
@@ -9333,10 +9333,10 @@ msgid "Only displaying energy bars when selected"
 msgstr "Az energiaszintek megjelenítése csak kijelölés esetén"
 
 msgid "Always displaying energy bars for units"
-msgstr "Mindig mutassa az energia szintet az egységeknél"
+msgstr "Energiaszint megjelenítése mindig az egységeknél"
 
 msgid "Always displaying energy bars for units and structures"
-msgstr "Mindig mutassa az energia szintet az egységeknél és az épületeknél"
+msgstr "Energiaszint megjelenítése mindig az egységeknél és az épületeknél"
 
 msgid "Debug menu is Open"
 msgstr "A hibakeresési menü nyitva van"
@@ -9348,7 +9348,7 @@ msgid "Oh, the weather outside is frightful... SNOW"
 msgstr "Oh, az időjárás kint rémisztő... HÓ"
 
 msgid "Singing in the rain, I'm singing in the rain... RAIN"
-msgstr "Énekelek az esőben, Én énekelek az esőben... ESŐ"
+msgstr "Énekelek az esőben, énekelek az esőben... ESŐ"
 
 msgid "Forecast : Clear skies for all areas... NO WEATHER"
 msgstr "Előrejelzés: tiszta idő minden területen… NINCS IDŐJÁRÁS-VÁLTOZÁS"
@@ -11391,13 +11391,13 @@ msgid "Failed to open configuration directory in system default file browser."
 msgstr "Nem sikerült megnyitni a beállítási könyvtárat a rendszer alapértelmezett fájlkezelőjében."
 
 msgid "Configuration directory is reported as:"
-msgstr "A beállítókönyvtár jelentve itt:"
+msgstr "A beállítókönyvtár jelentett helye:"
 
 msgid "If running inside a container / isolated environment, this may differ from the actual path on disk."
 msgstr "Ha egy virtuális konténerben vagy leválasztott környezetben fut, ez különbözhet a valódi elérési útvonaltól a lemezen."
 
 msgid "Please see the documentation for more information on how to locate it manually."
-msgstr "Kérjük, tekintsd meg a dokumentációt több információért a manuális megkereséséhez."
+msgstr "A kézi megkeresés további információiért lásd a dokumentációt."
 
 msgid "Failed to open configuration directory"
 msgstr "Beállítási könyvtár megnyitása sikertelen"
@@ -11424,11 +11424,11 @@ msgid ""
 "In Desktop Fullscreen mode, the resolution matches that of your desktop \n"
 "(or what the window manager allows)."
 msgstr ""
-"Asztali teljes képernyős módban a felbontás megegyezik az asztalod felbontásával\n"
-"(vagy azzal, amit az ablakkezelőd megenged)."
+"Asztali teljes képernyős módban a felbontás megegyezik az asztal felbontásával\n"
+"(vagy azzal, amit az ablakkezelő megenged)."
 
 msgid "You can change the resolution by resizing the window normally. (Try dragging a corner / edge.)"
-msgstr "Az ablak normál átméretezésével megváltoztathatja a felbontást. (Húzza el a sarkot / peremet.)"
+msgstr "Az ablak normál átméretezésével megváltoztathatja a felbontást. (Húzza el az ablak sarkát vagy szélét.)"
 
 msgid "Window Mode"
 msgstr ""
